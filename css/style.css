@@ -38,6 +38,16 @@ header {
   background-color: black;
 }
 
+.clear {
+  background-color: lightgrey;
+  color: black;
+}
+
+.clear:hover {
+  background-color: black;
+  color: lightgrey;
+}
+
 #clear {
   background-color: lightgrey;
   color: black;
