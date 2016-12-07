@@ -38,32 +38,12 @@ header {
   background-color: black;
 }
 
-.clear {
+.clear, #clear, .op {
   background-color: lightgrey;
   color: black;
 }
 
-.clear:hover {
-  background-color: black;
-  color: lightgrey;
-}
-
-#clear {
-  background-color: lightgrey;
-  color: black;
-}
-
-#clear:hover {
-  background-color: black;
-  color: lightgrey;
-}
-
-.op {
-  background-color: lightgrey;
-  color: black;
-}
-
-.op:hover {
+.clear:hover, #clear:hover, .op:hover {
   background-color: black;
   color: lightgrey;
 }
